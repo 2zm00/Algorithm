@@ -17,3 +17,5 @@ for digit in result_str:
 # 결과 출력
 for count in count_list:
     print(count)
+
+# [] list () {}
