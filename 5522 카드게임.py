@@ -1,7 +1,4 @@
-a = int(input())
-b = int(input())
-c = int(input())
-d = int(input())
-e = int(input())
+n = int(input())
+l = []
 
-print(a+b+c+d+e)
+set(n)

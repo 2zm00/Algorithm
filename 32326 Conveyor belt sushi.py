@@ -10,5 +10,5 @@ red = int(input())    # 빨간 접시 수
 green = int(input())  # 초록 접시 수
 blue = int(input())   # 파란 접시 수
 
-# 결과 출력
+# 결과 출력                                                                
 print(calculate_sushi_cost(red, green, blue))

@@ -19,6 +19,5 @@ else:
     plus+=k
 
 print(plus)
-print("총 카드",n,"앞d",m,"앞x",frontx,"뒷d",k,"뒷x",backx)
 
 
